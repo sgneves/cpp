@@ -1,4 +1,5 @@
 # C++
 
-This repository contains the following projects programmed in C++:
-* C++ Primer - programming exercises of the book written by Stanley Lippman.
+This repository contains the following C++ projects:
+* C++ Primer - Programming exercises of the 5th edition of C++ Primer written by Stanley Lippman.
+
