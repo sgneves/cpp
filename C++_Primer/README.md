@@ -52,3 +52,7 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 **Chapter 3 - Strings, vectors, and arrays**
 
 * 3.1 - Based on 1.9 but utilizes using declarations.
+* 3.2 - Reads the standard input a word at a time.
+* 3.4 - Reads two strings and reports whether the strings are equal.
+* 3.5 - Reads and concatenates strings from the standard input.
+* 3.6 - Changes all characters in a string to X (uses a range for).
