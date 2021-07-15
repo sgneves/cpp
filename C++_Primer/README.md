@@ -19,7 +19,7 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * 1.20 - Reads a set of book sales transactions and writes each transaction to the standard output.
 * 1.21 - Reads two Sales_item objects that have the same ISBN and produces their sum.
 * 1.22 - Reads several transactions for the same ISBN and writes their sum.
-* 1.25 - Reads several transactions and counts how many transactions occur for each ISBN.
+* 1.25 - Reads several transactions and outputs the number of copies sold, revenue and average sale price for each book.
 
 **Chapter 2 - Variables and basic types**
 
@@ -32,3 +32,23 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * 2.20 - Pointers.
 * 2.21 - Pointers.
 * 2.25 - Pointers and references.
+* 2.26 - const qualifier: Initialization.
+* 2.27 - const qualifier: Initialization of pointers and references.
+* 2.28 - const qualifier: Definitions of pointers and references.
+* 2.29 - const qualifier: Assignments.
+* 2.30 - Top-level and low-level const.
+* 2.33 - Compound yypes, const and auto.
+* 2.35 - Compound yypes, const and auto.
+* 2.36 - decltype type specifier.
+* 2.37 - decltype type specifier.
+* 2.39 - struct type.
+* 2.40 - Sales_data class.
+* 2.41a - Based on Exercise 1.20 but uses Sales_data class.
+* 2.41b - Based on Exercise 1.21 but uses Sales_data class.
+* 2.41c - Based on Exercise 1.22 but uses Sales_data class.
+* 2.41d - Based on Exercise 1.25 but uses Sales_data class.
+* 2.42 - Based on 2.41d but uses the Sales_data.h header.
+
+**Chapter 3 - Strings, vectors, and arrays**
+
+* 3.1 - Based on 1.9 but utilizes using declarations.
