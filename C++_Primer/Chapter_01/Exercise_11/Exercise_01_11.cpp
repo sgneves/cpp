@@ -1,3 +1,5 @@
+// Ex 1.11 - Prompts the user for two integers and prints each number in the range specified by
+// those two integers.
 #include <iostream>
 
 int main()

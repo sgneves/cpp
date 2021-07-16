@@ -1,3 +1,4 @@
+// Ex 2.26 - const qualifier: Initialization.
 int main()
 {
     const int buf; // Illegal. buf requires an initializer

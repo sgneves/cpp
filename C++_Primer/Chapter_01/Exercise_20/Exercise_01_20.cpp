@@ -1,3 +1,5 @@
+// Ex 1.20 - Reads a set of book sales transactions and writes each transaction to the standard
+// output.
 #include <iostream>
 #include "Sales_item.h"
 

@@ -1,3 +1,4 @@
+// Ex 2.36 - decltype type specifier.
 int main()
 {
     int a = 3, b = 4; // a and b are int

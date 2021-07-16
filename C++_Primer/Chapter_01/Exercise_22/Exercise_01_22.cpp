@@ -1,3 +1,4 @@
+// Ex 1.22 - Reads several transactions for the same ISBN and writes their sum.
 #include <iostream>
 #include "Sales_item.h"
 

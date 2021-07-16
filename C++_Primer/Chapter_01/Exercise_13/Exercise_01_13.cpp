@@ -1,3 +1,4 @@
+// Ex 1.13 - Sums the numbers from 50 to 100 using a while statement.
 #include <iostream>
 
 int main()

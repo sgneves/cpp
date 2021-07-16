@@ -1,3 +1,4 @@
+// Ex 2.29 - const qualifier: Assignments.
 int main()
 {
     int i;

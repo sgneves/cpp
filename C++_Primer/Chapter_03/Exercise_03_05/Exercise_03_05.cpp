@@ -1,3 +1,4 @@
+// Ex 3.5 - Reads and concatenates strings from the standard input.
 #include <iostream>
 #include <string>
 using std::endl;

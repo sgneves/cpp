@@ -1,3 +1,4 @@
+// Ex 2.30 - Top-level and low-level const.
 int main()
 {
     int i = 0;

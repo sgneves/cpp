@@ -1,3 +1,4 @@
+// Ex 2.27 - const qualifier: Initialization of pointers and references.
 int main()
 {
     int i = -1, &r = 0; // Illegal. Literal assigned to reference to non const

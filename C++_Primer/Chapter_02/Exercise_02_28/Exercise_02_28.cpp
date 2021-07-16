@@ -1,3 +1,4 @@
+// Ex 2.28 - const qualifier: Definitions of pointers and references.
 int main()
 {
     int i, *const cp; // Illegal. cp requires an initializer

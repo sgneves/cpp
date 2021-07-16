@@ -1,3 +1,4 @@
+// Ex 1.4 - Multiplies two numbers.
 #include <iostream>
 
 int main()

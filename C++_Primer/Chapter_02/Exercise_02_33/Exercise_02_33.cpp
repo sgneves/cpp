@@ -1,3 +1,4 @@
+// Ex 2.33 - Compound yypes, const and auto.
 int main()
 {
     int i = 0, &r = i;

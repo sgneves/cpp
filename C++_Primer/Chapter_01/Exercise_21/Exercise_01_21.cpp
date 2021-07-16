@@ -1,3 +1,4 @@
+// Ex 1.21 - Reads two Sales_item objects that have the same ISBN and produces their sum.
 #include <iostream>
 #include "Sales_item.h"
 

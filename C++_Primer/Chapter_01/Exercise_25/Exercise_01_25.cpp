@@ -1,3 +1,5 @@
+// Ex 1.25 - Reads several transactions and outputs the number of copies sold, revenue and average
+// sale price for each book.
 #include <iostream>
 #include "Sales_item.h"
 

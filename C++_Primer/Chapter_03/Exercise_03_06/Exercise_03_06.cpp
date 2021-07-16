@@ -1,3 +1,4 @@
+// Ex 3.6 - Changes all characters in a string to X (uses a range for).
 #include <cctype>
 #include <iostream>
 #include <string>

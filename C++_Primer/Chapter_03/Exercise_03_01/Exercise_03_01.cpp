@@ -1,3 +1,4 @@
+// Ex 3.1 - Based on 1.9 but utilizes using declarations.
 #include <iostream>
 using std::cout;
 using std::endl;

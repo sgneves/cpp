@@ -1,3 +1,4 @@
+// Ex 2.41b - Based on Exercise 1.21 but uses Sales_data class.
 #include <iostream>
 
 struct Sales_data {

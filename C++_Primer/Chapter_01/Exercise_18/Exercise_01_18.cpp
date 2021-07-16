@@ -1,3 +1,4 @@
+// Ex 1.18 - Counts how many consecutive times each distinct value appears in the input.
 #include <iostream>
 
 int main()

@@ -1,3 +1,4 @@
+// Ex 2.41d - Based on Exercise 1.25 but uses Sales_data class.
 #include <iostream>
 #include <string>
 

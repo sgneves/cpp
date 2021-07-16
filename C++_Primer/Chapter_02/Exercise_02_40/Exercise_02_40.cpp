@@ -1,3 +1,4 @@
+// Ex 2.40 - Sales_data class.
 #include <string>
 
 struct Sales_data {

@@ -1,3 +1,4 @@
+// Ex 3.2 - Reads a word at a time.
 #include <iostream>
 #include <string>
 using std::endl;

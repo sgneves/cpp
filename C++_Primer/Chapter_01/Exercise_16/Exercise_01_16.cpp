@@ -1,3 +1,4 @@
+// Ex 1.16 - Prints the sum of a set of integers read from cin.
 #include <iostream>
 
 int main()

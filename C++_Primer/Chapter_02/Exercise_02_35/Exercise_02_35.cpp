@@ -1,3 +1,4 @@
+// Ex 2.35 - Compound yypes, const and auto.
 int main()
 {
     const int i = 42; // const int

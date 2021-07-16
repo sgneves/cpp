@@ -1,3 +1,4 @@
+// Ex 3.4 - Reads two strings and reports whether the strings are equal.
 #include <iostream>
 #include <string>
 using std::endl;

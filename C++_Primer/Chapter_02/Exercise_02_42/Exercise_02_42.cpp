@@ -1,3 +1,4 @@
+// Ex 2.42 - Based on 2.41d but uses the Sales_data.h header.
 #include <iostream>
 #include <string>
 #include "Sales_data.h"
