@@ -10,7 +10,7 @@ set folder=%cd%
 
 cd %1
 
-rmdir /s/q .vs 2> NUL
+if exist .vs (for /f %%i in ('dir /b/s/a-d .vs ^| findstr /vile ".suo"') do del /q "%%i")
 
 for %%i in (Debug Release x64\Debug x64\Release) do (
 	for /f %%j in ('dir /b/s/ad %%i') do rmdir /s/q "%%j"
