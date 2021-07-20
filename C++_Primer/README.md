@@ -65,3 +65,19 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * Ex 3.17 - Reads a sequence of words, changes them to uppercase and prints the result with eight words per line.
 * Ex 3.20a - Reads a set of integers and prints the sum of each pair of adjacent elements.
 * Ex 3.20b - Reads a set of integers and prints the sum of the first and last elements, followed by the sum of the second and second-to-last, and so on.
+* Ex 3.21 - Based on Exercise 3.16 but uses iterators.
+* Ex 3.22 - Prints the contents of the first paragraph from a text file.
+* Ex 3.23 - Creates a vector with ten int elements and uses an iterator to double each element.
+* Ex 3.24 - Based on Exercise 3.20a but uses iterators.
+* Ex 3.25 - Counts how many grades fall into various clusters of 10.
+* Ex 3.27 - Array declarations.
+* Ex 3.31 - Defines an array of ten ints and gives each element the same value as its position in the array.
+* Ex 3.32 - Copying arrays.
+* Ex 3.35 - Sets the elements in an array to zero using pointers.
+* Ex 3.36 - Compares two arrays for equality and two vectors for equality.
+* Ex 3.39 - Compares two library strings and compares two C-style character strings.
+* Ex 3.40 - Concatenates two C-style character strings.
+* Ex 3.41 - Initializes a vector from an array of int.
+* Ex 3.43 - Using a range for, subscripts or pointers with multidimensional arrays.
+* Ex 3.44 - Based on Exercise 3.43 but uses a type alias for the type of the loop control variables.
+* Ex 3.45 - Based on Exercise 3.43 but uses auto the type of the loop control variables.
