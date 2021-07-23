@@ -1,0 +1,11 @@
+Vowel a: 4
+Vowel e: 8
+Vowel i: 10
+Vowel o: 4
+Vowel u: 2
+Space: 8
+Tab: 8
+newline: 1
+ff: 1
+fi: 2
+fl: 3

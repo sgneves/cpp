@@ -1,0 +1,8 @@
+Vowel a: 4
+Vowel e: 8
+Vowel i: 8
+Vowel o: 4
+Vowel u: 2
+Space: 5
+Tab: 5
+newline: 1

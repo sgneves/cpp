@@ -98,3 +98,22 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * Ex 4.27 - Bitwise operators.
 * Ex 4.28 - sizeof operator.
 * Ex 4.29 - sizeof operator.
+
+**Chapter 5 - Statements**
+
+* Ex 5.3 - Comma operator.
+* Ex 5.5 - Generates a letter grade from a numeric grade.
+* Ex 5.6 - Generates a letter grade from a numeric grade.
+* Ex 5.9 - Reads text from cin and counts the number of vowels.
+* Ex 5.10 - Reads text from cin and counts the number of vowels.
+* Ex 5.11 - Reads text from cin and counts the number of vowels, blank spaces, tabs and newlines.
+* Ex 5.12 - Reads text from cin and counts the number of vowels, blank spaces, tabs, newlines and two-character sequences ff, fl, fi.
+* Ex 5.14 - Reads strings from standard input and looks for duplicated words.
+* Ex 5.17 - Determines whether one vector is a prefix of the other.
+* Ex 5.19 - Repetitively request two strings from the user and reports which string is less than the other.
+* Ex 5.20 - Reads a sequence of strings from the standard input until the same word occurs twice in succession.
+* Ex 5.21 - Reads a sequence of strings from the standard input until the same word that starts with an uppercase letter occurs twice in succession.
+* Ex 5.22 - Loop instead of goto.
+* Ex 5.23 - Reads two integers and outputs their division.
+* Ex 5.24 - Based on 5.23 but throws an exception.
+* Ex 5.25 - Based on 5.23 but uses a try block to catch the exception.
