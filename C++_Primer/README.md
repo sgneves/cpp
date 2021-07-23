@@ -81,3 +81,20 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * Ex 3.43 - Using a range for, subscripts or pointers with multidimensional arrays.
 * Ex 3.44 - Based on Exercise 3.43 but uses a type alias for the type of the loop control variables.
 * Ex 3.45 - Based on Exercise 3.43 but uses auto the type of the loop control variables.
+
+**Chapter 4 - Expressions**
+
+* Ex 4.4 - Precedence and associativity of arithmetic operators.
+* Ex 4.5 - Precedence and associativity of arithmetic operators.
+* Ex 4.6 - Checks whether an int value is even or odd.
+* Ex 4.10 - Logical and relational operators.
+* Ex 4.11 - Logical and relational operators.
+* Ex 4.20 - Increment, decrement and member access operators.
+* Ex 4.21 - Doubles the elements in a vector<int> that have odd value.
+* Ex 4.22 - Indicates whether a grade is a high pass, pass, low pass or fail.
+* Ex 4.23 - Precedence of conditional operator.
+* Ex 4.23 - Precedence of conditional operator.
+* Ex 4.25 - Bitwise operators.
+* Ex 4.27 - Bitwise operators.
+* Ex 4.28 - sizeof operator.
+* Ex 4.29 - sizeof operator.
