@@ -117,3 +117,28 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * Ex 5.23 - Reads two integers and outputs their division.
 * Ex 5.24 - Based on 5.23 but throws an exception.
 * Ex 5.25 - Based on 5.23 but uses a try block to catch the exception.
+
+**Chapter 6 - Functions**
+
+* Ex 6.3 - Calculates the factorial of a given number.
+* Ex 6.4 - Based on Ex 6.3 but uses a function.
+* Ex 6.5 - Calculates the absolute value of a given number.
+* Ex 6.7 - Returns the number of times it has been called.
+* Ex 6.9 - Based on Ex 6.3 but uses a separate header and source file.
+* Ex 6.10 - Swaps the values of two ints.
+* Ex 6.11 - Resets a variable.
+* Ex 6.12 - Based on Ex 6.10 but uses references.
+* Ex 6.18 - Changes a string to all lowercase if it contains any capital letters.
+* Ex 6.21 - Calculates the maximum of two ints.
+* Ex 6.22 - Swaps the values of two int pointers.
+* Ex 6.23 - Prints a scalar and an array.
+* Ex 6.25 - Concatenates two command-line arguments and prints the result.
+* Ex 6.26 - Print the values of the arguments passed to the main.
+* Ex 6.27 - Sums a variable number of parameters.
+* Ex 6.30 - Errors associated with return statements.
+* Ex 6.32 - Function that returns a reference to an element of an array.
+* Ex 6.33 - Recursive function to print the contents of a vector.
+* Ex 6.38 - Function that returns a reference to an array.
+* Ex 6.42 - Returns the plural version of a word if the counter is greater than 1.
+* Ex 6.54 - Pointers to functions.
+* Ex 6.56 - Pointers to functions.
