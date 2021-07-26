@@ -22,7 +22,7 @@ int main()
         catch (std::runtime_error err) {
             cout << err.what() << "\nTry again?" << endl;
             if (cin >> rsp && toupper(rsp) != 'Y')
-                break;
+                return -1;
         }
     }
     return 0;

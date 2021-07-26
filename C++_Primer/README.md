@@ -142,3 +142,17 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 * Ex 6.42 - Returns the plural version of a word if the counter is greater than 1.
 * Ex 6.54 - Pointers to functions.
 * Ex 6.56 - Pointers to functions.
+
+**Chapter 7 - Classes**
+
+* Ex 7.1 - Same as Ex 2.42.
+* Ex 7.3 - Added the combine and isbn members to the Sales_data class defined in Ex 7.1.
+* Ex 7.4 - Class Person that represents the name and address of a person.
+* Ex 7.5 - Added members to return the name and address to the Person class defined in Ex 7.4.
+* Ex 7.7 - Added the add, read, and print members to the Sales_data class defined in Ex 7.3.
+* Ex 7.9 - Added the read, and print members to the Person class defined in Ex 7.5.
+* Ex 7.11 - Added constructors to the Sales_data class defined in Ex 7.7.
+* Ex 7.12 - Based on Ex 7.11 but the constructor that takes an istream is defined in the body of the Sales_data class.
+* Ex 7.15 - Added constructors to the Person class defined in Ex 7.9.
+* Ex 7.21 - Hided some of the members of the Sales_data class defined in Ex 7.11.
+* Ex 7.22 - Hided some of the members of the Person class defined in Ex 7.15.
