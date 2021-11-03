@@ -9,9 +9,10 @@ int main()
 	// Strings
 	string s1; // Default initialization; s1 is the empty string
 	string s2("zzz"); // s2 is a copy of the string literal
-	string s3(s2); // s3 is a copy of s2
-	string s4 = s2; // s4 is a copy of s2
-	string s5(3, 'z'); // s5 is zzz
+	string s3 = "zzz"; // s3 is a copy of the string literal
+	string s4(s2); // s4 is a copy of s2
+	string s5 = s2; // s5 is a copy of s2
+	string s6(3, 'z'); // s6 is zzz
 
 	// Vectors
 	vector<int> v1; // Default initialization; v1 is empty
