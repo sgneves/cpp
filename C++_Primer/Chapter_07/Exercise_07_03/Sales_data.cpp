@@ -3,7 +3,7 @@
 #include "Sales_data.h"
 
 // Combines this object with another object
-Sales_data& Sales_data::combine(const Sales_data &book) {
+Sales_data &Sales_data::combine(const Sales_data &book) {
 	if (bookNo != book.bookNo)
 		throw std::runtime_error("Error: Both books must have same ISBN.");
 

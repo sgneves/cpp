@@ -8,7 +8,7 @@ Sales_data::Sales_data(std::istream &is) {
 }
 
 // Combines this object with another object
-Sales_data& Sales_data::combine(const Sales_data &book) {
+Sales_data &Sales_data::combine(const Sales_data &book) {
 	if (bookNo != book.bookNo)
 		throw std::runtime_error("Error: Both books must have same ISBN.");
 
@@ -34,7 +34,7 @@ std::istream &read(std::istream &is, Sales_data &item) {
 }
 
 // Prints the value of a Sales_data object on an ostream
-std::ostream& print(std::ostream &os, const Sales_data &item) {
+std::ostream &print(std::ostream &os, const Sales_data &item) {
 	std::cout << item.isbn() << " " << item.units_sold << " " << item.revenue
 		<< " " << item.avg_price();
 	return os;

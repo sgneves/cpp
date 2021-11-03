@@ -1,14 +1,12 @@
 #ifndef SALES_DATA_H
 #define SALES_DATA_H
 
-#include <iostream>
-#include <stdexcept>
 #include <string>
 using std::string;
 
 struct Sales_data {
-	string isbn() const {return bookNo;}
-	Sales_data& combine(const Sales_data&);
+	string isbn() const { return bookNo; }
+	Sales_data &combine(const Sales_data&);
 	double avg_price() const;
 
 	string bookNo;
