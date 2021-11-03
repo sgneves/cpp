@@ -147,12 +147,17 @@ Programming exercises of the 5th edition of C++ Primer written by Stanley Lippma
 
 * Ex 7.1 - Same as Ex 2.42.
 * Ex 7.3 - Added the combine and isbn members to the Sales_data class defined in Ex 7.1.
-* Ex 7.4 - Class Person that represents the name and address of a person.
+* Ex 7.4 - Class Person to represent the name and address of a person.
 * Ex 7.5 - Added members to return the name and address to the Person class defined in Ex 7.4.
-* Ex 7.7 - Added the add, read, and print members to the Sales_data class defined in Ex 7.3.
+* Ex 7.7 - Added the add, read and print members to the Sales_data class defined in Ex 7.3.
 * Ex 7.9 - Added the read, and print members to the Person class defined in Ex 7.5.
 * Ex 7.11 - Added constructors to the Sales_data class defined in Ex 7.7.
 * Ex 7.12 - Based on Ex 7.11 but the constructor that takes an istream is defined in the body of the Sales_data class.
 * Ex 7.15 - Added constructors to the Person class defined in Ex 7.9.
 * Ex 7.21 - Hided some of the members of the Sales_data class defined in Ex 7.11.
 * Ex 7.22 - Hided some of the members of the Person class defined in Ex 7.15.
+* Ex 7.24 - Class Screen to represent a window on a display.
+* Ex 7.27 - Added the set, move and display members to the Screen class defined in Ex 7.24.
+* Ex 7.31 - Class declarations and pointers to classes.
+* Ex 7.32 - Class Window_mgr to represent a window manager of Screens on a given display.
+* Ex 7.43 - Using a class that does not have a default constructor.
